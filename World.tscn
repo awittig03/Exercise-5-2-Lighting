@@ -2,6 +2,8 @@
 
 [node name="World" type="Node3D"]
 
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+
 [node name="Marker3D" type="Marker3D" parent="."]
 
 [node name="Pivot" type="Node3D" parent="."]
